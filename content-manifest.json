@@ -1,0 +1,800 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Home — SmileQuest Dental — Comprehensive Dentistry — ND",
+      "h1": "Your dental experts in Devils Lake, ND",
+      "headings": [
+        "Comprehensive dental care",
+        "Personalized, quality care",
+        "A calming, comfortable space",
+        "Uncompromising excellence in dentistry",
+        "Care that covers all your oral health needs",
+        "Meet the SmileQuest team",
+        "Patient stories",
+        "Start your SmileQuest"
+      ]
+    },
+    {
+      "path": "/about-us",
+      "title": "About Us — SmileQuest Dental — Comprehensive Dental Care",
+      "h1": "About the practice",
+      "headings": [
+        "Welcome to SmileQuest Dental Care",
+        "Meet the Dentists",
+        "Meet the Team",
+        "Our Approach to Your Dental Care",
+        "Thoughtful Care that Achieves the Results You Want"
+      ]
+    },
+    {
+      "path": "/plan-your-visit",
+      "title": "Plan Your Visit — SmileQuest Dental — Comprehensive Care",
+      "h1": "Plan your visit",
+      "headings": [
+        "What to Expect at Your First Visit",
+        "Advanced Imaging & Diagnostic Tools",
+        "After Your Evaluation",
+        "Setting the Stage for Lifelong Dental Health"
+      ]
+    },
+    {
+      "path": "/services",
+      "title": "Dental Services — SmileQuest Dental — Devils Lake, ND",
+      "h1": "Dental services",
+      "headings": [
+        "Complete dentistry under one roof",
+        "Core care",
+        "Advanced and specialty care",
+        "Payment"
+      ]
+    },
+    {
+      "path": "/general-dentistry",
+      "title": "General Dentistry — Comprehensive Care — Dental Implants",
+      "h1": "General Dentistry",
+      "headings": [
+        "General dentistry at SmileQuest",
+        "Professional Dental Cleaning",
+        "Oral Cancer Screening",
+        "Fluoride Varnish",
+        "Dental Sealants",
+        "Tooth-Colored Fillings",
+        "Dental Crowns",
+        "Tooth Extraction",
+        "Wisdom Tooth Removal",
+        "Periodontal Therapy",
+        "Nightguards and Mouth Guards",
+        "Sedation"
+      ]
+    },
+    {
+      "path": "/cosmetic-dentistry",
+      "title": "Cosmetic Dentistry — SmileQuest Dental",
+      "h1": "Cosmetic Dentistry",
+      "headings": [
+        "Cosmetic dentistry at SmileQuest",
+        "Teeth Whitening",
+        "Dental Bonding",
+        "Porcelain Veneers",
+        "Crowns",
+        "Invisalign",
+        "Smile Makeovers",
+        "Let’s Talk About Your Smile Goals"
+      ]
+    },
+    {
+      "path": "/restorative-dentistry",
+      "title": "Restorative Dentistry — SmileQuest Dental",
+      "h1": "Restorative Dentistry",
+      "headings": [
+        "Restorative dentistry at SmileQuest",
+        "Our Approach",
+        "Dental Crowns",
+        "Dental Bridges",
+        "Dentures",
+        "Implant-Supported Dentures",
+        "Dental Implants",
+        "Full Mouth Rehabilitation",
+        "Let’s Restore Your Smile"
+      ]
+    },
+    {
+      "path": "/childrens-dentistry",
+      "title": "Children's Dentistry — SmileQuest Dental",
+      "h1": "Children's Dentistry",
+      "headings": [
+        "A dental home for your whole family",
+        "The Importance of a Dental Home for Children",
+        "Preventive Care",
+        "Fluoride Varnish",
+        "Dental Sealants",
+        "Silver Diamine Fluoride",
+        "Tooth-Colored Fillings",
+        "Dental Bonding",
+        "Stainless Steel Crowns",
+        "Sedation Dentistry",
+        "Sports Mouth Guards",
+        "Tips for Baby’s First Visit",
+        "Book Your Child’s Next Visit"
+      ]
+    },
+    {
+      "path": "/endodontics",
+      "title": "Endodontics — SmileQuest Dental",
+      "h1": "Endodontics",
+      "headings": [
+        "Advanced root care from a team you can trust",
+        "CBCT Imaging",
+        "Root Canal Therapy & Pediatric Pulpotomy",
+        "Root Canal Re-Treatment",
+        "Endodontic Surgery (Apicoectomy)",
+        "Unexplained Tooth Pain",
+        "Internal Bleaching",
+        "Pediatric Endodontics",
+        "Sedation Options"
+      ]
+    },
+    {
+      "path": "/oral-surgery",
+      "title": "Oral Surgery — SmileQuest Dental",
+      "h1": "Oral Surgery",
+      "headings": [
+        "In-house surgical care",
+        "Tooth Extraction",
+        "Wisdom Tooth Removal",
+        "Endodontic Surgery (Apicoectomy)",
+        "Sedation for Comfort"
+      ]
+    },
+    {
+      "path": "/periodontics",
+      "title": "Periodontics — SmileQuest Dental",
+      "h1": "Periodontics",
+      "headings": [
+        "Healthy gums, healthy smile",
+        "Periodontal Therapy",
+        "Periodontal Assessment & Charting",
+        "Long-Term Periodontal Maintenance"
+      ]
+    },
+    {
+      "path": "/full-mouth-rehabilitation",
+      "title": "Full Mouth Rehabilitation — SmileQuest Dental",
+      "h1": "Full Mouth Rehabilitation",
+      "headings": [
+        "A Comprehensive Plan to Rebuild Your Smile",
+        "Our Phased Approach",
+        "Rebuilding Function for Long-Term Health"
+      ]
+    },
+    {
+      "path": "/dental-implants",
+      "title": "Dental Implants — SmileQuest Dental",
+      "h1": "Dental Implants",
+      "headings": [
+        "Permanent tooth replacement",
+        "Dental Implants",
+        "Implant-Supported Dentures",
+        "3D Imaging & Planning"
+      ]
+    },
+    {
+      "path": "/smile-makeovers",
+      "title": "Smile Makeovers — SmileQuest Dental",
+      "h1": "Smile Makeovers",
+      "headings": [
+        "A smile that still looks like you",
+        "Smile Makeovers",
+        "Teeth Whitening",
+        "Porcelain Veneers",
+        "Dental Bonding",
+        "Crowns"
+      ]
+    },
+    {
+      "path": "/invisalign",
+      "title": "Invisalign — SmileQuest Dental",
+      "h1": "Invisalign",
+      "headings": [
+        "Clear aligners, guided care",
+        "Invisalign at SmileQuest",
+        "Guided from Start to Finish",
+        "Part of a Bigger Smile Plan"
+      ]
+    },
+    {
+      "path": "/request-appointment",
+      "title": "Request Appointment — SmileQuest Dental — Devils Lake, ND",
+      "h1": "Request appointment",
+      "headings": [
+        "Book an appointment online",
+        "Tell us about you",
+        "Choose your visit",
+        "Review and send",
+        "Appointment request received"
+      ]
+    },
+    {
+      "path": "/reviews",
+      "title": "Patient Reviews — SmileQuest Dental",
+      "h1": "Patient reviews",
+      "headings": [
+        "Real words from our patients",
+        "Reviews"
+      ]
+    },
+    {
+      "path": "/contact",
+      "title": "Contact & Directions — SmileQuest Dental",
+      "h1": "Contact & find us",
+      "headings": [
+        "Contact us",
+        "Office hours",
+        "Find us",
+        "Request an appointment"
+      ]
+    },
+    {
+      "path": "/privacy-policy",
+      "title": "Privacy Policy – SmileQuest Dental",
+      "h1": "Privacy Policy",
+      "headings": [
+        "Introduction",
+        "Information We Collect",
+        "How We Use Your Information",
+        "Disclosure of Your Information",
+        "Data Retention",
+        "Your Choices",
+        "Children’s Privacy",
+        "Changes to This Policy",
+        "Contact Us"
+      ]
+    },
+    {
+      "path": "/hipaa-notice-of-privacy-practices",
+      "title": "HIPAA Notice of Privacy Practices – SmileQuest Dental",
+      "h1": "HIPAA Notice of Privacy Practices",
+      "headings": [
+        "Our Commitment to Your Privacy",
+        "How We May Use and Disclose Your Health Information",
+        "Substance Use Disorder Records",
+        "Your Rights Regarding Your Health Information",
+        "Our Duties",
+        "Complaints",
+        "Contact Us"
+      ]
+    },
+    {
+      "path": "/accessibility-statement",
+      "title": "Accessibility Statement – SmileQuest Dental",
+      "h1": "Accessibility Statement",
+      "headings": [
+        "Our Commitment to Accessibility",
+        "Conformance Status",
+        "Technical Specifications",
+        "Known Limitations",
+        "Feedback and Contact",
+        "Formal Complaints"
+      ]
+    },
+    {
+      "path": "/terms-of-use",
+      "title": "Terms of Use – SmileQuest Dental",
+      "h1": "Terms of Use",
+      "headings": [
+        "Acceptance of Terms",
+        "Not Medical or Dental Advice",
+        "No Doctor-Patient Relationship",
+        "Intellectual Property",
+        "Third-Party Links",
+        "Disclaimer of Warranties",
+        "Limitation of Liability",
+        "Governing Law",
+        "Changes to These Terms",
+        "Contact Us"
+      ]
+    },
+    {
+      "path": "/non-discrimination-notice",
+      "title": "Non-Discrimination Notice – SmileQuest Dental",
+      "h1": "Non-Discrimination Notice",
+      "headings": [
+        "Nondiscrimination Notice",
+        "Accessibility and Language Assistance",
+        "How to File a Grievance",
+        "How to File a Civil Rights Complaint"
+      ]
+    }
+  ],
+  "facts": {
+    "practice": [
+      "SmileQuest Dental"
+    ],
+    "phone": [
+      "(701) 662-8191",
+      "701-662-8191"
+    ],
+    "address": [
+      "206 5th Ave SE, Devils Lake, ND 58301",
+      "206 5th Avenue SE"
+    ],
+    "hours": [
+      "Monday to Friday, 8:00am-4:00pm"
+    ],
+    "doctors": [
+      "Benjamin Mack, DDS",
+      "Eric Herman, DDS",
+      "Peyton Halverson Granger, DDS"
+    ],
+    "team": [
+      "Michelle",
+      "Danielle (Dani)",
+      "Hilary",
+      "Deanna",
+      "Jenn",
+      "Ashley",
+      "Cassi",
+      "Karla",
+      "Kylie",
+      "Roxanne",
+      "Brooke",
+      "Breanne (Bree)",
+      "DeAnne",
+      "Breanna",
+      "Tina",
+      "Lisa",
+      "Ashley P.",
+      "Isabelle",
+      "Nora"
+    ],
+    "patient_reviewers": [
+      "Gypse Lou",
+      "Curt Kukert",
+      "Jolene Wee",
+      "Shelby Campbell",
+      "Chanda Arneson",
+      "Jackie C.",
+      "Marlene S.",
+      "Heidi L.",
+      "Elona O.",
+      "Michael T.",
+      "Patty C.",
+      "Roxane",
+      "Cassandra S.",
+      "Melissa S."
+    ],
+    "services": [
+      "General Dentistry",
+      "Cosmetic Dentistry",
+      "Restorative Dentistry",
+      "Children’s Dentistry",
+      "Endodontics",
+      "Oral Surgery",
+      "Periodontics",
+      "Full Mouth Rehabilitation",
+      "Dental Implants",
+      "Smile Makeovers",
+      "Invisalign"
+    ],
+    "appointment_types": [
+      "Existing Patient Check Up & Cleaning",
+      "Invisalign Consultation",
+      "New Patient Appointment",
+      "Second Opinion Consultation",
+      "Toothache"
+    ],
+    "payment": [
+      "cash, credit card, and most major dental insurance plans"
+    ],
+    "insurance": [
+      "most major dental insurance plans"
+    ]
+  },
+  "navigation": {
+    "header": [
+      "/",
+      "/about-us",
+      "/plan-your-visit",
+      "/services",
+      "/general-dentistry",
+      "/cosmetic-dentistry",
+      "/restorative-dentistry",
+      "/childrens-dentistry",
+      "/endodontics",
+      "/oral-surgery",
+      "/periodontics",
+      "/full-mouth-rehabilitation",
+      "/dental-implants",
+      "/smile-makeovers",
+      "/invisalign",
+      "/request-appointment"
+    ],
+    "footer": [
+      "/",
+      "/about-us",
+      "/plan-your-visit",
+      "/services",
+      "/general-dentistry",
+      "/cosmetic-dentistry",
+      "/restorative-dentistry",
+      "/childrens-dentistry",
+      "/endodontics",
+      "/request-appointment",
+      "/reviews",
+      "/contact",
+      "/privacy-policy",
+      "/hipaa-notice-of-privacy-practices",
+      "/accessibility-statement",
+      "/terms-of-use",
+      "/non-discrimination-notice"
+    ]
+  },
+  "assets": [
+    {
+      "src": "/assets/images/appointment.svg",
+      "type": "image",
+      "bytes": 2996
+    },
+    {
+      "src": "/assets/images/ashley.webp",
+      "type": "image",
+      "bytes": 76416
+    },
+    {
+      "src": "/assets/images/ashleyp.webp",
+      "type": "image",
+      "bytes": 83156
+    },
+    {
+      "src": "/assets/images/avoid.svg",
+      "type": "image",
+      "bytes": 2400
+    },
+    {
+      "src": "/assets/images/breanna.webp",
+      "type": "image",
+      "bytes": 46182
+    },
+    {
+      "src": "/assets/images/bree.webp",
+      "type": "image",
+      "bytes": 85674
+    },
+    {
+      "src": "/assets/images/brooke.webp",
+      "type": "image",
+      "bytes": 64374
+    },
+    {
+      "src": "/assets/images/calm.svg",
+      "type": "image",
+      "bytes": 2141
+    },
+    {
+      "src": "/assets/images/care.svg",
+      "type": "image",
+      "bytes": 2945
+    },
+    {
+      "src": "/assets/images/cassi.webp",
+      "type": "image",
+      "bytes": 57570
+    },
+    {
+      "src": "/assets/images/catch-early.svg",
+      "type": "image",
+      "bytes": 2171
+    },
+    {
+      "src": "/assets/images/childrens-home.webp",
+      "type": "image",
+      "bytes": 179632
+    },
+    {
+      "src": "/assets/images/childrens.svg",
+      "type": "image",
+      "bytes": 2327
+    },
+    {
+      "src": "/assets/images/confidence.svg",
+      "type": "image",
+      "bytes": 2044
+    },
+    {
+      "src": "/assets/images/cosmetic-home.webp",
+      "type": "image",
+      "bytes": 172208
+    },
+    {
+      "src": "/assets/images/cosmetic.svg",
+      "type": "image",
+      "bytes": 3294
+    },
+    {
+      "src": "/assets/images/dani.webp",
+      "type": "image",
+      "bytes": 58720
+    },
+    {
+      "src": "/assets/images/deanna.webp",
+      "type": "image",
+      "bytes": 64470
+    },
+    {
+      "src": "/assets/images/deanne.webp",
+      "type": "image",
+      "bytes": 86260
+    },
+    {
+      "src": "/assets/images/dedicaiton.svg",
+      "type": "image",
+      "bytes": 5465
+    },
+    {
+      "src": "/assets/images/eherman.webp",
+      "type": "image",
+      "bytes": 49044
+    },
+    {
+      "src": "/assets/images/endodontics.svg",
+      "type": "image",
+      "bytes": 2162
+    },
+    {
+      "src": "/assets/images/endontics-home.webp",
+      "type": "image",
+      "bytes": 121124
+    },
+    {
+      "src": "/assets/images/fix.svg",
+      "type": "image",
+      "bytes": 1926
+    },
+    {
+      "src": "/assets/images/full-mouth.svg",
+      "type": "image",
+      "bytes": 2402
+    },
+    {
+      "src": "/assets/images/function.svg",
+      "type": "image",
+      "bytes": 3525
+    },
+    {
+      "src": "/assets/images/general-home.webp",
+      "type": "image",
+      "bytes": 153068
+    },
+    {
+      "src": "/assets/images/general.svg",
+      "type": "image",
+      "bytes": 1884
+    },
+    {
+      "src": "/assets/images/granger.webp",
+      "type": "image",
+      "bytes": 59988
+    },
+    {
+      "src": "/assets/images/healthy-habits.svg",
+      "type": "image",
+      "bytes": 2397
+    },
+    {
+      "src": "/assets/images/hilary.webp",
+      "type": "image",
+      "bytes": 43802
+    },
+    {
+      "src": "/assets/images/implants.svg",
+      "type": "image",
+      "bytes": 3236
+    },
+    {
+      "src": "/assets/images/invisalign.svg",
+      "type": "image",
+      "bytes": 6936
+    },
+    {
+      "src": "/assets/images/isabelle.webp",
+      "type": "image",
+      "bytes": 55204
+    },
+    {
+      "src": "/assets/images/jenn.webp",
+      "type": "image",
+      "bytes": 65410
+    },
+    {
+      "src": "/assets/images/karla.webp",
+      "type": "image",
+      "bytes": 55828
+    },
+    {
+      "src": "/assets/images/kylie.webp",
+      "type": "image",
+      "bytes": 87262
+    },
+    {
+      "src": "/assets/images/lisa.webp",
+      "type": "image",
+      "bytes": 48520
+    },
+    {
+      "src": "/assets/images/location.svg",
+      "type": "image",
+      "bytes": 1373
+    },
+    {
+      "src": "/assets/images/mack.webp",
+      "type": "image",
+      "bytes": 60706
+    },
+    {
+      "src": "/assets/images/main-hero.webp",
+      "type": "image",
+      "bytes": 230708
+    },
+    {
+      "src": "/assets/images/main-testimonial-bg.webp",
+      "type": "image",
+      "bytes": 150264
+    },
+    {
+      "src": "/assets/images/maintain.svg",
+      "type": "image",
+      "bytes": 2651
+    },
+    {
+      "src": "/assets/images/makeover.svg",
+      "type": "image",
+      "bytes": 2044
+    },
+    {
+      "src": "/assets/images/michelle.webp",
+      "type": "image",
+      "bytes": 78530
+    },
+    {
+      "src": "/assets/images/natural.svg",
+      "type": "image",
+      "bytes": 1916
+    },
+    {
+      "src": "/assets/images/nora.webp",
+      "type": "image",
+      "bytes": 62390
+    },
+    {
+      "src": "/assets/images/office-building.webp",
+      "type": "image",
+      "bytes": 40936
+    },
+    {
+      "src": "/assets/images/office-ext.webp",
+      "type": "image",
+      "bytes": 289402
+    },
+    {
+      "src": "/assets/images/perio.svg",
+      "type": "image",
+      "bytes": 4953
+    },
+    {
+      "src": "/assets/images/personalized.svg",
+      "type": "image",
+      "bytes": 2237
+    },
+    {
+      "src": "/assets/images/pinpoint.svg",
+      "type": "image",
+      "bytes": 2578
+    },
+    {
+      "src": "/assets/images/plan-visit.svg",
+      "type": "image",
+      "bytes": 2548
+    },
+    {
+      "src": "/assets/images/positive.svg",
+      "type": "image",
+      "bytes": 3189
+    },
+    {
+      "src": "/assets/images/preserve.svg",
+      "type": "image",
+      "bytes": 2653
+    },
+    {
+      "src": "/assets/images/prevent.svg",
+      "type": "image",
+      "bytes": 2400
+    },
+    {
+      "src": "/assets/images/quote.svg",
+      "type": "image",
+      "bytes": 1154
+    },
+    {
+      "src": "/assets/images/replace.svg",
+      "type": "image",
+      "bytes": 3236
+    },
+    {
+      "src": "/assets/images/restorative-home.webp",
+      "type": "image",
+      "bytes": 222914
+    },
+    {
+      "src": "/assets/images/restorative.svg",
+      "type": "image",
+      "bytes": 2672
+    },
+    {
+      "src": "/assets/images/roxanne.webp",
+      "type": "image",
+      "bytes": 73090
+    },
+    {
+      "src": "/assets/images/smile-quest-hall.webp",
+      "type": "image",
+      "bytes": 30156
+    },
+    {
+      "src": "/assets/images/smile-quest-logo-footer.svg",
+      "type": "image",
+      "bytes": 7183
+    },
+    {
+      "src": "/assets/images/smile-quest-logo-nav.svg",
+      "type": "image",
+      "bytes": 7189
+    },
+    {
+      "src": "/assets/images/smile-quest-rock-reception.webp",
+      "type": "image",
+      "bytes": 28404
+    },
+    {
+      "src": "/assets/images/smile-quest-rock-wall.webp",
+      "type": "image",
+      "bytes": 41214
+    },
+    {
+      "src": "/assets/images/smile-quest-small-team.webp",
+      "type": "image",
+      "bytes": 50306
+    },
+    {
+      "src": "/assets/images/stop-infection.svg",
+      "type": "image",
+      "bytes": 2400
+    },
+    {
+      "src": "/assets/images/support.svg",
+      "type": "image",
+      "bytes": 2947
+    },
+    {
+      "src": "/assets/images/surgery.svg",
+      "type": "image",
+      "bytes": 3209
+    },
+    {
+      "src": "/assets/images/tina.webp",
+      "type": "image",
+      "bytes": 76772
+    },
+    {
+      "src": "/assets/images/transform.svg",
+      "type": "image",
+      "bytes": 2624
+    },
+    {
+      "src": "/assets/images/understanding.svg",
+      "type": "image",
+      "bytes": 2953
+    }
+  ]
+}
